@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # TECH STACK
 
-<img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg' width=30 height=30/> <img src='https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg' width=30 height=30/>
+<img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' width=40 height=40/> <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg' width=30 height=30/> <img src='https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg' width=30 height=30/>
 
 # MY STATS
 
