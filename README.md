@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 TECH STACK
+
 <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg' width=30 height=30/>
 
