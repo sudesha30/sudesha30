@@ -30,6 +30,11 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sudesha30&theme=dark)](https://git.io/streak-stats)
 
+# ACTIVITY GRAPH
+
+[![Sudesha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sudesha30&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 
 
