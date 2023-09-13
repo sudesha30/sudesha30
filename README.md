@@ -14,13 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-TECH STACK
+# TECH STACK
 
 <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg' width=30 height=30/>
 
-MY STATS
+# MY STATS
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudesha30&show_icons=true&theme=radical)
+
+# TOP LANGUAGES
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudesha30&layout=compact)
+
+# STREAK
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sudesha30&theme=dark)](https://git.io/streak-stats)
+
+
 
 
 
